@@ -1,4 +1,3 @@
-![Walmart Sales Project](Walmart%20Project.png)
 
 # 🛍️ Walmart End-to-End Python-SQL Project
 Absolutely! Here's a clean, professional, and well-structured **Markdown README** version for your **Walmart Sales Data Analysis (SQL Project)**. You can copy-paste this directly into your GitHub `README.md` file:
