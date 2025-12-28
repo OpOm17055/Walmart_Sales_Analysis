@@ -1,10 +1,8 @@
 
 # 🛍️ Walmart End-to-End Python-SQL Project
-Absolutely! Here's a clean, professional, and well-structured **Markdown README** version for your **Walmart Sales Data Analysis (SQL Project)**. You can copy-paste this directly into your GitHub `README.md` file:
-
 ---
 
-## 📌 Project Overview
+##  Project Overview
 
 This project involves analyzing **Walmart's sales data** to uncover insights about high-performing branches, top-selling product lines, customer behavior, and sales trends. The primary objective is to support data-driven sales optimization strategies.
 
@@ -12,7 +10,7 @@ The dataset is sourced from the **Kaggle Walmart Sales Forecasting Competition**
 
 ---
 
-## 🎯 Project Goals
+##  Project Goals
 
 * Identify high-risk churn customers
 * Understand behavioral and demographic sales drivers
@@ -22,7 +20,7 @@ The dataset is sourced from the **Kaggle Walmart Sales Forecasting Competition**
 
 ---
 
-## 📁 Dataset Description
+##  Dataset Description
 
 The dataset includes **1,000 rows** and **17 columns**, representing transaction-level data. Here are the key fields:
 
@@ -48,14 +46,14 @@ The dataset includes **1,000 rows** and **17 columns**, representing transaction
 
 ---
 
-## 🧪 Approach & Methodology
+##  Approach & Methodology
 
-### 1️⃣ Data Wrangling
+### 1️ Data Wrangling
 
 * Checked for null values (none due to `NOT NULL` constraints)
 * Created and populated SQL tables from cleaned dataset
 
-### 2️⃣ Feature Engineering
+### 2️ Feature Engineering
 
 Added new fields to enhance analysis:
 
@@ -63,14 +61,14 @@ Added new fields to enhance analysis:
 * `day_name`: Extracted day of the week (Mon–Sun)
 * `month_name`: Extracted month name for trend analysis
 
-### 3️⃣ Exploratory Data Analysis (EDA)
+### 3️ Exploratory Data Analysis (EDA)
 
 Performed analysis using **SQL queries** to answer key business questions across product performance, customer behavior, and branch efficiency.
 
 ---
-📊 Analysis Breakdown
+ Analysis Breakdown
 
-🛍️ Product Analysis
+ Product Analysis
 How many distinct product lines are there in the dataset?
 
 What is the most common payment method?
@@ -95,7 +93,7 @@ What is the most common product line by gender?
 
 What is the average rating of each product line?
 
-💵 Sales Analysis
+ Sales Analysis
 Number of sales made in each time of the day per weekday
 
 Identify the customer type that generates the highest revenue
@@ -104,7 +102,7 @@ Which city has the largest tax percent / VAT (Value Added Tax)?
 
 Which customer type pays the most VAT?
 
-👥 Customer Analysis
+ Customer Analysis
 How many unique customer types does the data have?
 
 How many unique payment methods does the data have?
