@@ -1,5 +1,5 @@
 
-# 🛍️ Walmart End-to-End Python-SQL Project
+#  Walmart End-to-End Python-SQL Project
 ---
 
 ##  Project Overview
