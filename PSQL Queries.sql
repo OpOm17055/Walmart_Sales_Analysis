@@ -2,10 +2,6 @@
 
 SELECT * FROM walmart;
 
--- DROP TABLE walmart;
-
--- DROP TABLE walmart;
-
 -- 
 SELECT COUNT(*) FROM walmart;
 
